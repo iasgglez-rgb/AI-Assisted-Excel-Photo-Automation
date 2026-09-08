@@ -69,7 +69,7 @@ AI-Assisted-Excel-Photo-Automation/
 │
 ├── README.md
 ├── Documentation_Template.xlsx
-├── InsertarFotos.bas
+├── InsertPhotos.bas
 ├── photo_mapping.csv
 │
 └── BF/
