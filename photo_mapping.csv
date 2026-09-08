@@ -1,0 +1,13 @@
+ID,File,Type,Destination
+1,1.png,Installed,C8:X19
+1B,1B.png,Dismantled,AC8:AX19
+2,2.png,Installed,C24:X35
+2B,2B.png,Dismantled,AC24:AX35
+3,3.png,Installed,C40:X51
+3B,3B.png,Dismantled,AC40:AX51
+4,4.png,Installed,C56:X67
+4B,4B.png,Dismantled,AC56:AX67
+5,5.png,Installed,C72:X83
+5B,5B.png,Dismantled,AC72:AX83
+6,6.png,Installed,C88:X99
+6B,6B.png,Dismantled,AC88:AX99
