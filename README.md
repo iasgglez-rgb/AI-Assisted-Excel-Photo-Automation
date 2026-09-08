@@ -113,7 +113,7 @@ In the VBA editor:
 
 1. Right-click the workbook project.
 2. Select **Import File...**
-3. Select `InsertarFotos.bas`.
+3. Select `InsertPhotos.bas`.
 4. Confirm that the module has been imported.
 
 ### 4. Verify the worksheet
@@ -128,7 +128,7 @@ Do not rename this worksheet unless the VBA constant `WORKSHEET_NAME` is also ch
 
 Return to Excel and run:
 
-`InsertarFotos`
+`InsertPhotos`
 
 The macro reads the photographs from the `BF` folder and places them into their corresponding destinations in the template.
 
